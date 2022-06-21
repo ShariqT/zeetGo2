@@ -8,4 +8,5 @@ func main() {
 	e.GET("/", func(c echo.Context) error {
 		return c.JSON(200, "test") 
 	})
+	e.Start(":3000")
 }
