@@ -1,0 +1,4 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/go:1.14",
+    "forwardPorts": [3000]
+}
