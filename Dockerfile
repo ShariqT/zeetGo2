@@ -10,4 +10,4 @@ RUN go build
 
 EXPOSE 3000
 
-CMD ./zeetGo2
+CMD ./zeetgo2
